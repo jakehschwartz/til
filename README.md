@@ -1,6 +1,14 @@
 # Today I Learned
 
-My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), which I spotted [on Hacker News](https://news.ycombinator.com/item?id=22908044).
+This is my Today I Learned microblog. It consists of short posts explaining what I learned that day. 
+
+This is inspired by: 
+- [Hashrocket's Today I Learned Blog](https://til.hashrocket.com/), 
+- [Simon Willison's TIL which I forked from](https://github.com/simonw/til) who was inspired by [jbranchaud/til](https://github.com/jbranchaud/til) [and Hacker News](https://news.ycombinator.com/item?id=22908044).
+- [/r/TiL](https://www.reddit.com/r/todayilearned/) 
+- [Every](https://hackernoon.com/what-you-need-to-write-about-programming-ce57cdc3b206) [single](https://tommcfarlin.com/programmers-should-blog/) [programmer](https://medium.com/planet-arkency/why-blog-as-a-software-developer-b9d5ef4b1250) [saying](http://www.thomashanning.com/10-reasons-you-should-blog-as-a-developer/) [you](https://dzone.com/articles/why-programmers-should-have) [should](https://simpleprogrammer.com/is-it-ok-for-new-programmers-to-blog-about-what-they-are-learning/) [have a blog](https://devblast.com/b/why-you-should-have-a-programming-blog). 
+
+Hopefully you can learn something too!
 
 <!-- count starts -->35<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
 
