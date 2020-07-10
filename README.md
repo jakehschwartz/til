@@ -17,9 +17,9 @@ Hopefully you can learn something too!!
 <!-- index starts -->
 ## intellij
 
-* [Adding Scapegoat To IntelliJ's Build Process](https://github.com/simonw/til/blob/master/intellij/scapegoat-intellij.md) - 2020-07-10
+* [Adding Scapegoat To IntelliJ's Build Process](https://github.com/jakehschwartz/til/blob/master/intellij/scapegoat-intellij.md) - 2020-07-10
 
 ## zsh
 
-* [How Easy It Is To Switch To Zsh](https://github.com/simonw/til/blob/master/zsh/switch-bash-zsh.md) - 2020-07-10
+* [How Easy It Is To Switch To Zsh](https://github.com/jakehschwartz/til/blob/master/zsh/switch-bash-zsh.md) - 2020-07-10
 <!-- index ends -->
