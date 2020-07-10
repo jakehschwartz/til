@@ -10,6 +10,8 @@ This is inspired by:
 
 Hopefully you can learn something too!
 
+![Build README and deploy Datasette](https://github.com/jakehschwartz/til/workflows/Build%20README%20and%20deploy%20Datasette/badge.svg)
+
 <!-- count starts -->35<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
 
 <!-- index starts -->
