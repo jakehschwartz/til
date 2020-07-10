@@ -12,7 +12,7 @@ Hopefully you can learn something too!!
 
 ![Build README and deploy Datasette](https://github.com/jakehschwartz/til/workflows/Build%20README%20and%20deploy%20Datasette/badge.svg)
 
-<!-- count starts -->3<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
+<!-- count starts -->2<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
 
 <!-- index starts -->
 ## intellij
@@ -22,8 +22,4 @@ Hopefully you can learn something too!!
 ## zsh
 
 * [How Easy It Is To Switch To Zsh](https://github.com/jakehschwartz/til/blob/master/zsh/switch-bash-zsh.md) - 2020-07-10
-
-## vim
-
-* [Stuff](https://github.com/jakehschwartz/til/blob/master/vim/idk.md) - 2020-07-10
 <!-- index ends -->
